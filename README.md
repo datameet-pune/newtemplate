@@ -5,7 +5,7 @@ new website designs, templates explored and hammered out here
 
 [Knight](Knight/)
 
-[Onepage](Onepage/)
+[Onepage](OnePage/)
 
 ## Initation log
 * Nikhil: Sharing as this might be useful for folks like me using the command line way of syncing with github for the first time.
