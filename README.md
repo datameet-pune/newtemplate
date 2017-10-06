@@ -62,3 +62,8 @@ $ git add .
 $ git commit -m "explanation"
 $ git push origin master
 ```
+
+#### If repo has been changed online, and you want your local folder to sync with it
+```
+$ git pull origin master
+```
