@@ -1,6 +1,12 @@
 # newtemplate
 new website designs, templates explored and hammered out here
 
+## Testing themes
+
+[Knight](Knight/)
+
+[Onepage](Onepage/)
+
 ## Initation log
 * Nikhil: Sharing as this might be useful for folks like me using the command line way of syncing with github for the first time.
 * Had the folder locally and had initiated the repo online
@@ -46,3 +52,9 @@ To https://github.com/datameet-pune/newtemplate.git
 #### Clarifications on local-to-remote syncing
 * There's no need for your local folder to be named the same as your github repo.
 
+#### Subsequent changes, commits to push up to github
+```
+$ git add .
+$ git commit -m "explanation"
+$ git push origin master
+```
