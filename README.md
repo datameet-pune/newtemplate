@@ -1,5 +1,7 @@
+[<- back to DataMeet Pune main page](https://datameet-pune.github.io)
+
 # newtemplate
-new website designs, templates explored and hammered out here
+new website designs, templates explored and hammered out here.
 
 ## Testing themes
 
