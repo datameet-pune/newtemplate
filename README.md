@@ -9,6 +9,9 @@ new website designs, templates explored and hammered out here.
 
 [Onepage](OnePage/)
 
+## Links
+* <https://html5up.net/> Lot of good free templates for static sites.
+
 ## Initation log
 * Nikhil: Sharing as this might be useful for folks like me using the command line way of syncing with github for the first time.
 * Had the folder locally and had initiated the repo online
